@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Singh</h1>
-<h2 align="center">Developement | Azure | Learning | Tech Enthusiast</h2>
+<h2 align="center">Developement | .Net Core | React | DevOps</h2>
 <h4 align="center">⚡ Fun fact : I'm not a coder you needed but the coder you deserve!😉</h4>
 <br>
 
